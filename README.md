@@ -5,7 +5,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/FlemingVincent/Circles.git
+git clone https://github.com/lionking0105/Circles.git
 ```
 
 2. Navigate to the project directory
@@ -34,13 +34,13 @@ This project has been configured with the following tools:
 
 ESLint is a linting tool for JavaScript that enforces coding best practices.
 
-[ESLint Configuration](https://github.com/FlemingVincent/circles/blob/main/.eslintrc.js)
+[ESLint Configuration](https://github.com/lionking0105/circles/blob/main/.eslintrc.js)
 
 **Prettier**
 
 Prettier is a code formatter that enforces a consistent code style. Within this project it has been configured to run with ESLint.
 
-[Prettier Configuration](https://github.com/FlemingVincent/circles/blob/main/.prettierrc)
+[Prettier Configuration](https://github.com/lionking0105/circles/blob/main/.prettierrc)
 
 **TypeScript**
 
@@ -163,10 +163,3 @@ Assuming you've already completed the setup, to start contributing please follow
 
 **Note:** Please ensure that you base your branch off the development branch, not the main branch.
 
-## Authors
-
-- [Christian De Guzman](https://github.com/ChristianDeGuzmanUF)
-- [Vincent Fleming](https://github.com/FlemingVincent)
-- [Jinfan Tu](https://github.com/VicTu946)
-- [Phillip Vanderlaat](https://github.com/pvanderlaat)
-- [Gabriel Velasquez](https://github.com/gabcoroba)
